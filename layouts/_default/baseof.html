@@ -18,9 +18,7 @@
 		</section>
 		{{ block "post-hero" . }}{{ end }}
 		{{ end }}
-		<section id="encyclopedia">
-			{{ block "main" . }}{{ end }}
-		</section>
+		{{ block "main" . }}{{ end }}
 		{{ partialCached "footer.html" . }}
 		{{ partialCached "footer-scripts.html" . }}
 	</body>
