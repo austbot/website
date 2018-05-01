@@ -5,6 +5,7 @@ Current
 * Finish 404 checker and diff
 * 301... /docs/getting-started-guides/ /docs/setup/pick-right-solution/ DISABLED FOR NOW
 * Commit count: 153 (excluding squashes)
+* kubeconf banner front page full size
 
 For Migration
 -----------
@@ -47,6 +48,7 @@ Notes
 Notes for guide
 
 * TIP: ▶ hugo server --navigateToChanged
+* make sass
 
 Talk
 ----

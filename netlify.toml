@@ -4,7 +4,7 @@ command = "hugo"
 
 [context.production.environment]
 # Must be removed once we merge.
-HUGO_BASEURL = "https://k8sio-hugo-migration.netlify.com/"
+HUGO_BASEURL = "https://hugo-migration.docs.kubernetes.io/"
 HUGO_VERSION = "0.40.2"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
