@@ -5,7 +5,13 @@ Current
 * Finish 404 checker and diff
 * 301... /docs/getting-started-guides/ /docs/setup/pick-right-solution/ DISABLED FOR NOW
 * Commit count: 153 (excluding squashes)
-* kubeconf banner front page full size
+* Check 404
+
+Diffs notes:
+
+* blog/2018/03/27/kubernetes-1.10-stabilizing-storage-security-networking -- bug in production: Timestamp update => URL change
+* blog/page3
+
 
 For Migration
 -----------
