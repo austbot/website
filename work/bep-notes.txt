@@ -1,15 +1,8 @@
 
-Questions
-------------
-* Any of the external generators needs updating for changed paths? Shortcodes?
-
-
-Andrew: * /netlify_noindex_headers.txt? => static/_headers?
 
 Current
 -----------
 * Finish 404 checker and diff
-* content/en/docs/reference/generated
 * 301... /docs/getting-started-guides/ /docs/setup/pick-right-solution/ DISABLED FOR NOW
 * Commit count: 153 (excluding squashes)
 
@@ -38,6 +31,9 @@ Files to delete:
 ./code-of-conduct.md
 ./editdocs.md
 ./404.md
+
+
+* Generated docs /reference/generated => static?
 
 
 netlify.toml:
